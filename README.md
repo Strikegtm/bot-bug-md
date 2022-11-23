@@ -112,7 +112,7 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 | S (Sticker) |✅|
 | TOIMG |✅|
 | AUTOVN ON/OFF |✅|
-
+| Cyberlynx |✅|
 ## <samp>  Big Thanks To :
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
