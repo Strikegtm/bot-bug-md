@@ -119,5 +119,4 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Faizbastomi`](https://github.com/FaizBastomi)
 * [`PitoDev ArmStrong`](https://github.com/PitoDevID)</samp>
-
 License : [MIT](https://en.wikipedia.org/wiki/MIT_License)
